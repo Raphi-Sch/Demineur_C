@@ -10,14 +10,14 @@ Pour jouer, la première étape est de compiler le projet grâce au Makefile de 
 
 
 
-Lancement du jeu :
+# Lancement du jeu :
 
-Le jeu peut être lancé en plusieurs modes : le mode classique pour jouer (./demineur), le mode debug (./demineur debug) et le mode automatique (./demineur auto).
+Le jeu peut être lancé en plusieurs modes : le mode classique pour jouer (./demineur), le mode debug (./demineur debug) et le mode automatique (./demineur auto).  
 Dans ce dernier mode, les cases à ouvrir sont choisies aléatoirement. 
 
 
 
-Les étapes du jeu :
+# Les étapes du jeu :
 
 Après avoir lancé le jeu, l'utilisateur choisit une taille de grille de jeu comprise entre 5 et 25.
 
@@ -42,7 +42,7 @@ A la fin du jeu, les drapeaux bien positionnés rapportent des points au joueur.
 
 
 
-Description du code : 
+# Description du code : 
 
 
 
